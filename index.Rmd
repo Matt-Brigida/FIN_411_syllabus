@@ -199,10 +199,21 @@ all spreadsheets should be submitted as .xlsx.*
 
 ## Tentative Outline
 
-Week 1: August 28th and August 30th
-Week 2: September 4th and September 6th
-Week 3: September 11th and September 13th
-Week 4: September 18th and September 20th
+```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl2 <- "
+| Week | Case |
+| ---- | ---- |
+| Week 1: 6/28--8/30 | Setting themes  |
+| Week 2: 9/4--9/6   | Cases in module: Ben & Jerry  |
+| ---- | ------ |
+| Week 3: 9/11--9/13 | FedEx vs. UPS |
+| Week 4: 9/18--9/20 |   |
+| ---- | ------ |
+"
+
+cat(tabl2)
+```
+
 Week 5: September 25th and September 27th
 Week 6: October 2nd and October 4th
             October 6- Tuesday October 9th Mid-semester break
@@ -218,11 +229,10 @@ Week 14: November 27th and November 29th
 Week 15: December 4th and December 6th
 Week 16: Finals Week
 
-Weeks 1 & 2 Setting themes
-Cases in module: Ben & Jerry
+Weeks 1 & 2 
 
 Weeks 3 & 4
-FedEx vs. UPS
+
 
 Week 5 & 6
 Financial Analysis and Forecasting
