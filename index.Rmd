@@ -36,7 +36,7 @@ opts_knit$set(width=75)
 
 **Office**: Donovan 1277
 
-**Office Hours**: Tuesday 5:00--6:00 and Monday/Wednesday 10:30--12:00
+**Office Hours**: Tuesday/Thursday/Friday  10:30--11:30
 
 **Email**:  matthew.brigida@sunyit.edu
 
@@ -134,7 +134,7 @@ If the questions requires computation, then use Excel (or other spreadsheet) and
 
 <!-- To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.   -->
 
-A particular period's discussion will conclude Sunday at 9pm.
+<!-- A particular period's discussion will conclude Sunday at 9pm. -->
 
 <!-- **2.  Q/A:** You should post finance related short questions and answers similar to what you find at https://github.com/finance-AI/data/blob/master/studentQA/studentQA_fall_2016.txt.  These are submission from an earlier class.  You should submit your Q/A in the same format. -->
 
@@ -148,7 +148,6 @@ A particular period's discussion will conclude Sunday at 9pm.
 ## Course Communication
 
 All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
-
 
 ## Grading
 
@@ -200,23 +199,43 @@ all spreadsheets should be submitted as .xlsx.*
 
 ## Tentative Outline
 
+Week 1: August 28th and August 30th
+Week 2: September 4th and September 6th
+Week 3: September 11th and September 13th
+Week 4: September 18th and September 20th
+Week 5: September 25th and September 27th
+Week 6: October 2nd and October 4th
+            October 6- Tuesday October 9th Mid-semester break
+Week 7: October 11th (Thursday)
+Week 8: October 16th and October 18th
+Week 9: October 23rd and October 25th
+Week 10: October 30th and November 1st
+Week 11: November 6th and November 8th
+Week 12: November 13th and November 15th
+Week 13: November 20th
+            Thanksgiving November 22nd -25th
+Week 14: November 27th and November 29th
+Week 15: December 4th and December 6th
+Week 16: Finals Week
 
-- 1/15: Chapter 1
-- 1/22:  Chapter 2 \& 3
-- 1/29: Chapter 3 \& 4 (Note: chapter 3 is more important than 4.) **Start Market Depth Project**
-- 2/5: Chapter 5 Some useful videos for chapters 5, 6, and 7 are [here](https://www.youtube.com/watch?v=iyxoZZUULCQ&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=4), [here](https://www.youtube.com/watch?v=ZtxvkdThpck&index=3&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6), [here](https://www.youtube.com/watch?v=XX1h196RLUg&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=2), and [here](https://www.youtube.com/watch?v=dpB5fx5lbA8&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=1).
-- 2/12: Chapter 6
-- 2/19: Chapter 7 **Start MV Optimal Portfolio Project** [See This Video](https://www.youtube.com/watch?v=HQrba-gn1Gs&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=10) and [These Spreadsheet Instructions](https://www.youtube.com/watch?v=jjjQV__bSHk&t=94s&list=PLRK1VeglPb4MeP83AIOZFj2quPZ1t4dN6&index=12)
-- 2/26: [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
-- *Midterm is through Securitization.  Final exam will cover from here onward.*
-- 3/12: Interlude: The term structure of interest rates and measuring bond price sensitivity to interest rates. **No calculations required**
-- 3/19: Chapter 20
-- 3/26: Chapter 21 **Start Option Pricing (Black-Scholes) Project**
-- 4/2: Chapter 22
-- 4/9: Chapter 23
-- 4/16: Projects/Trade
-- 4/23: Projects/Trade **last week to submit any projects.**
-- 4/30: Finals Week
+Weeks 1 & 2 Setting themes
+Cases in module: Ben & Jerry
+
+Weeks 3 & 4
+FedEx vs. UPS
+
+Week 5 & 6
+Financial Analysis and Forecasting
+Case: Value-Line Publishing
+
+Weeks 7 & 8
+Estimating the cost of capital
+Case: Nike, Inc.
+
+Weeks 9 & 10
+Capital Budgeting and Resource Allocation
+Case: Aurora Textile Corp. pg. 283
+
 
 > Based on student input, we may add topics in portfolio theory such as those found in chapters 5 through 10, and chapter 24.
 
