@@ -36,7 +36,7 @@ opts_knit$set(width=75)
 
 **Office**: Donovan 1277
 
-**Office Hours**: Tuesday/Thursday/Friday  10:30--11:30
+**Office Hours**: Monday/Wednesday/Thursday  10:30--11:30
 
 **Email**:  matthew.brigida@sunyit.edu
 
