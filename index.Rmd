@@ -134,6 +134,8 @@ tabl <- "
 cat(tabl)
 ```
 
+**All cases should be handed in by uploading them to the BB Dropbox.  Do not send them via email**
+
 ## Participation
 
 Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score.  
