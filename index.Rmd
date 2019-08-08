@@ -181,7 +181,7 @@ tabl <- "
 | Item | Points |
 | ---- | ------ |
 | Case Submissions | 70 |
-| Participation (including Blackboard Discussion) | 30 |
+| Participation | 30 |
 | Total Points | 100 |
 "
 cat(tabl)
@@ -228,12 +228,12 @@ tabl2 <- "
 | ---- | ---- |
 | Weeks 1 and 2: 6/28--9/6 | Setting themes--Cases in module: **Ben & Jerry** |
 | Weeks 3 and 4: 9/11--9/20 | **FedEx vs. UPS** |
-| Weeks 5 and 6: 9/25--10/4 | Financial Analysis and Forecasting--Case: **Value-Line Publishing** |
-| Weeks 7 and 8: 10/11--10/18 | Estimating the cost of capital--Case: **Nike, Inc.** |
-| Weeks 9 and 10: 10/23--11/1 | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
-| Weeks 11 and 12: 11/6--11/15 | |
-| Weeks 13 and 14: 11/20--11/29 | |
-| Weeks 15: 12/4--12/6 | Housekeeping |
+| Weeks 5 and 6: 9/25--10/4 | Krispy Kreme & Teletech |
+| Weeks 7 and 8: 10/11--10/18 | The Body Shop |
+| Weeks 9 and 10: 10/23--11/1 | Financial Analysis and Forecasting--Case: **Value-Line Publishing** |
+| Weeks 11 and 12: 11/6--11/15 | Estimating the cost of capital--Case: **Nike, Inc.** | 
+| Weeks 13 and 14: 11/20--11/29 | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| Weeks 15: 12/4--12/6 | Carrefour |
 "
 cat(tabl2)
 ```
