@@ -36,13 +36,13 @@ opts_knit$set(width=75)
 
 **Office**: Donovan 1277
 
-**Office Hours**: Monday/Wednesday/Thursday  10:30--11:30
+**Office Hours**: Tuesday and Wednesday, 4:30--6:00pm
 
 **Email**:  matthew.brigida@sunyit.edu
 
 **Class Location**:  Donovan 1157
 
-**Class Day/Time**: TR, 0900-1030am
+**Class Day/Time**: Tuesday  6:00pm--9:30pm
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
