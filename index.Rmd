@@ -126,10 +126,9 @@ tabl <- "
 | ------ | ---- | 
 | I. Executive Summary | |
 | II. Problem Statement | |
-| III.  Case Analysis (Strenghts, Weaknesses, Opportunities, Threats) | |
+| III.  Analysis and Recommendations | |
 | IV.  Alternate Solutions | |
-| V.  Recommendations and Conclusions | |
-| VI.  Supplementary Material (Excel spreadsheets, etc) | |
+| V.  Supplementary Material (Excel spreadsheets, etc) | |
 "
 cat(tabl)
 ```
