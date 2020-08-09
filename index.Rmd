@@ -153,9 +153,9 @@ Also, often students will ask for the correct answer or way of doing something. 
 
 **All cases should be handed in by uploading them to the BB Dropbox.  Do not send them via email**
 
-## Participation
+<!-- ## Participation -->
 
-Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score.
+<!-- Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score. -->
 
 ## Course Communication
 
@@ -163,6 +163,9 @@ All communication will be through Blackboard and email. If you have question you
 
 ## Grading
 
+Your final grade is an average of your grades for each case.  All cases are worth an equal amount.
+
+<!---
 <center>
 
 ```{r grading, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
@@ -175,8 +178,8 @@ tabl <- "
 "
 cat(tabl)
 ```
-
 </center>
+-->
 
 <center>
 **Final grades will be assigned according to the following scale**:
@@ -251,6 +254,8 @@ You should construct your spreadsheet as if you were an analyst at a company, an
 - Excel has many built in formulas which can be useful, however it is important that you understand what the formula is doing to use them.  Blindly applying a formula can lead to trouble.  For example, if you use the IRR() function on cash flows with multiple roots, the formula will return the first root it finds without signaling to you that there are other roots.  Also, there are Excel formulas that are flat out incorrect - in particular the NPV() function.  So, use a function if it saves time, but first be sure you know what the function is doing and verify it works.  That said, in my experience it is better (and faster) to input your own formula instead of using Excel's.  You often have to break the calculation into a couple of steps, but this can be done quickly, and the result is a spreadsheet that you know works and is easily auditable.
 
 ## Some Discussion Papers on AI
+
+You are not required to read these.
 
 + [McKinsey AI](https://www.mckinsey.com/featured-insights/artificial-intelligence)
 + [AI: The Next Digital Frontier?](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
