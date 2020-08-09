@@ -40,13 +40,13 @@ opts_knit$set(width=75)
 
 **Email**:  matthew.brigida@sunyit.edu
 
-**Class Location**:  Donovan A133
+**Class Location**:  Kunshl A133
 
 **Class Day/Time**: Online and Tuesday  6:00pm--9:30pm
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
-**Supplementary Material**: [5MinuteFinance.org](https://www.5minutefinance.org/)
+**Supplementary Material**: [readthefinance](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
 
 ## Course Structure and Interaction
 
@@ -120,18 +120,32 @@ Throughout the semester we'll work on a series of projects that will help us und
 
 For each case you will hand in a report with the following general headings:
 
-```{r case_struct, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
-tabl <- "
-|        | | 
-| ------ | ---- | 
-| I. Executive Summary | |
-| II. Problem Statement | |
-| III.  Analysis and Recommendations | |
-| IV.  Alternate Solutions | |
-| V.  Supplementary Material (Excel spreadsheets, etc) | |
-"
-cat(tabl)
-```
+**I. Executive Summary**
+
+This section should provide background and context to the case.  For example, in the Ben and Jerry's case it is important to know the company is incorporated in Vermont, and the effect on goal of the firm.  Whatever context you provide, however, should be relevant to the problem and recommendation.  Just random facts wastes time.
+
+**II. Problem Statement**
+
+This is a concise clear statement of the problem.  It should be a sentence or two.  
+
+**III. Recommendation and Analysis**
+
+This section should **first** answer the question posed in the problem statement.  The answer should be the first line of this section.  Don't hide your recommendations within the analysis.
+
+Following your recommendations should be supporting analyses.  These are often calculations, for example you may say Ben and Jerry's should accept a given offer because it provides the highest price per share. Note, if you simple do random calculations that don't support your recommendation, this it worse than providing no analysis---it wastes time.
+	
+**IV. Alternate Solutions**
+
+Here you can offer other solutions, though this section is optional and should not be long.  
+
+
+**V. Supplementary Material (Excel spreadsheets, etc)**
+
+Many of the cases will require supplementary spreadsheet calculations. Do not simply hand in a spreadsheet with your calculations with no explanation. Think about how you would submit an analysis to your boss while working as an analyst. You must explain why you did what you did.
+
+Your spreadsheet should be easily readable and usable by anyone.  Spreadsheets don't just calculate answers, they present them.  
+
+#### Other General Notes
 
 Many of the cases will require supplementary spreadsheet calculations.  Do not simply hand in a spreadsheet with your calculations with no explanation.  Think about how you would submit an analysis to your boss while working as an analyst.  You must explain why you did what you did.
 
@@ -141,31 +155,7 @@ Also, often students will ask for the correct answer or way of doing something. 
 
 ## Participation
 
-Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score.  
-
-<!---
-## DISCUSSION:
-
-For each two-week period I will post a set of *End-of-Chapter Questions* from the text.  You must choose 1 of the questions from the set and post your answer to the discussion board.  Try and choose a question that has not yet been answered, but if all the questions have been answered then try and add unique information in your answer.
-
-The subject line of your discussion post should be the in the format [chapter].[question number].  For example, if you are answering question 5 from chapter 3, your subject line should be '5.3'.  Also, be sure to have one post for each answer. Don't answer multiple questions in one post.
-
-If the questions requires computation, then use Excel (or other spreadsheet) and post your spreadsheet as your answer.  
-
-<!-- In addition to your answer, you must post 1 response to other students' answers.  So each week you will post 1 answer, and 1 response to other answers, for a total of 2 posts to the discussion board each period. -->
-
-<!-- To receive credit your posts must be constructive, preferably somewhat insightful, and show you have done the reading.  If your post does not meet the preceding criteria, please don't bother posting it because it will just clutter the discussion board.   -->
-
-<!-- A particular period's discussion will conclude Sunday at 9pm. -->
-
-<!-- **2.  Q/A:** You should post finance related short questions and answers similar to what you find at https://github.com/finance-AI/data/blob/master/studentQA/studentQA_fall_2016.txt.  These are submission from an earlier class.  You should submit your Q/A in the same format. -->
-
-<!--   This assignment will help you learn our Corporate Finance material by writing concise answers to finance questions.  In addition, your submitted Q/A will be used to train a finance Artificial Intelligence.  I will feed the Q/A into a deep neural network to train a chatbot that can answer finance questions---think Siri for finance.    -->
-
-<!-- I have created a file for Q/A for this course https://github.com/finance-AI/data/blob/master/studentQA/studentQA_570_summer_2017.txt.  Submit your Q/A there.  Adding to the file is easy---[see this video for a short tutorial](https://www.youtube.com/watch?v=iVC9UKkaiko), and [This is an example of a link to a commit.](https://github.com/FinancialMarkets/5MinuteFinance/commit/8f12f63b546a80fdb04e787514d967f1a1c0725f) -->
-
-<!-- If your GitHub username is similar to your real name, then you don't have to tell me you have submitted the Q/A (I'll see it).  If your username is different, then send me an email from your clarion email address with the Subject "FIN 570 Q/A" letting me know your real name and GitHub username.  Note, GitHub shows how many lines you have added, so there is no need to number your questions.  Also, don't label the questions and answers.  -->
-
+Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score.
 
 ## Course Communication
 
@@ -179,8 +169,8 @@ All communication will be through Blackboard and email. If you have question you
 tabl <- "
 | Item | Points |
 | ---- | ------ |
-| Case Submissions | 70 |
-| Participation | 30 |
+| Case Submissions | 90 |
+| Participation | 10 |
 | Total Points | 100 |
 "
 cat(tabl)
