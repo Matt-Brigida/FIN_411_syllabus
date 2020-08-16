@@ -40,13 +40,15 @@ opts_knit$set(width=75)
 
 **Email**:  matthew.brigida@sunyit.edu
 
-**Class Location**:  Kunshl A133
+**Class Location**:  Online (Synchronous)
 
-**Class Day/Time**: Online and Tuesday  6:00pm--9:30pm
+**Class Day/Time**: Online and Tuesday  6:00pm--9:30pm.  We will meet via Blackboard Collaborate. All lectures will be recorded.
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
-**Supplementary Material**: [readthefinance](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+**Supplementary Material**: 
+- [readthefinance](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+- [Corporate Finance Data Sets](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html)  These data sets contain very useful information for case analyses.
 
 ## Course Structure and Interaction
 
@@ -79,24 +81,10 @@ semester. Course withdrawals to avoid such a failure will not be permitted. As a
 have a responsibility to become familiar with the Academic Honesty Policy found in the Student
 Rights, Regulations, and Procedures Handbook.
 
-<!---
+
 ## Office Hours
 
-I will be logged on the course throughout the week to answer questions and review the discussions.  If a few students have questions on the material, and there is a good time to meet, I'll log into BB Collaborate and record the answers.
-
-Students do not need to access the course simultaneously, and therefore have a measure of flexibility regarding when they access the course.  However, students should access the course regularly to keep up with assignments, and to maintain a presence in the Discussion Room.  Students should also often check their SUNY Poly email account.
--->
-
-<!---
-## Lectures
-
-In addition to the lectures I posted to YouTube, I will also record lectures via BB Collaborate.  I'll try and let you know when I am recording each lecture, so you can log in an interact.  However all that is required is that you watch the lecture at some point---meaning you are free to just watch the recording.
-
-**You must complete and submit your computation questions in a spreadsheet.  If you submit your computation answers in Word, I will reduce your score.  You should also not treat your spreadsheet as a Word or text file.  That is answers should be written as formulas, and not as text strings.**
-
-**If your spreadsheet is disorganized you will lose points. The computations and answers should be easily found and understood by anyone opening your spreadsheet. See the 'Note on Spreadsheet Design' at the end of this syllabus.**
-
--->
+I will be available on BB Collaborate for an hour prior to each class.  I will also be logged on the course throughout the week to answer questions and review the discussions.  I will try to be available on request, however I will not help if you wait until the last minute to complete your work.  If you post questions on a case on the day it is due I will likely not answer.
 
 ## Cases
 
@@ -126,14 +114,15 @@ Following your recommendations should be supporting analyses.  These are often c
 	
 **IV. Alternate Solutions**
 
-Here you can offer other solutions, though this section is optional and should not be long.  
+Here you can offer other solutions, along with accompanying benefits or drawbacks.  This section is optional and should not be long.
 
 
 **V. Supplementary Material (Excel spreadsheets, etc)**
 
 Many of the cases will require supplementary spreadsheet calculations. Do not simply hand in a spreadsheet with your calculations with no explanation. Think about how you would submit an analysis to your boss while working as an analyst. You must explain why you did what you did.
 
-Your spreadsheet should be easily readable and usable by anyone.  Spreadsheets don't just calculate answers, they present them.  
+Your spreadsheet should be easily readable and usable by anyone.  Spreadsheets don't just calculate answers, they present them.  Lastly, you must complete and submit your computation questions in a spreadsheet.  If you submit your computation answers in Word, I will reduce your score.
+
 
 #### Other General Notes
 
