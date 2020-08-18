@@ -34,15 +34,15 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Donovan 1277
+**Office**: Online Fall 2020 | On Campus Office is Donovan 1277
 
-**Office Hours**: Tuesday and Wednesday, 4:30--6:00pm
+**Office Hours**: Tuesday 4:00--6:00, I will be in a BB Collaborate session.  Feel free to log in and ask questions.
 
 **Email**:  matthew.brigida@sunyit.edu
 
 **Class Location**:  Online (Synchronous)
 
-**Class Day/Time**: Online and Tuesday  6:00pm--9:30pm.  We will meet via Blackboard Collaborate. All lectures will be recorded.
+**Class Day/Time**: Synchronous Online Tuesday  6:00pm--9:30pm.  We will meet via Blackboard Collaborate. All lectures will also be recorded.
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
@@ -66,7 +66,7 @@ This is a cases course for upper-level finance students. The learning outcomes f
 
 #.  Students will learn to communicate complex topics in a clear and concise manner.
 
-#.  Students will learn to calculate and present various measures of financial performance appropriate to specific types of firms.  
+#.  Students will learn to calculate and present various measures of financial performance appropriate to specific types of firms.
 
 #.  In short, in this course you will start to complete analyses like you are an analyst.  Specifically, we are transitioning away from simple calculations, and toward holistic analyses which incorporate many calculations, and your knowledge of financial topics and the interdependence between variables.  
 
