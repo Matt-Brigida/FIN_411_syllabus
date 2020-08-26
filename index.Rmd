@@ -144,9 +144,7 @@ All communication will be through Blackboard and email. If you have question you
 
 Your final grade is an average of your grades for each case.  All cases are worth an equal amount.
 
-<!---
 <center>
-
 ```{r grading, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
 tabl <- "
 | Item | Points |
@@ -158,7 +156,7 @@ tabl <- "
 cat(tabl)
 ```
 </center>
--->
+
 
 <center>
 **Final grades will be assigned according to the following scale**:
@@ -199,12 +197,12 @@ Cases are due on the second
 tabl2 <- "
 | Week | Case |
 | ---- | ---- |
-| Weeks 1 and 2: 8/24--9/4 | Setting themes--Cases in module: **Ben & Jerry** |
-| Weeks 3 and 4: 9/7--9/18 | **FedEx vs. UPS** |
-| Weeks 5 and 6: 9/21--10/2 | Krispy Kreme  |
-| Weeks 7 and 8: 10/5--10/16 | Securitization | ## The Body Shop |
-| Weeks 9 and 10: 10/19--10/30 | Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** |
-| Weeks 11 and 12: 11/2--11/13 | Estimating the cost of capital--Case: **Nike, Inc.** | 
+| Weeks 1 and 2: 8/31--9/11 | Setting themes--Cases in module: **Ben & Jerry** |
+| Weeks 3 and 4: 9/14--9/25 | **FedEx vs. UPS** |
+| Weeks 5 and 6: 9/28--10/9 | Krispy Kreme  |
+| Weeks 7 and 8: 10/12--10/23 | Securitization | ## The Body Shop |
+| Weeks 9 and 10: 10/26--11/6 | Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** |
+| Weeks 11 and 12: 11/9--11/20 | Estimating the cost of capital--Case: **Nike, Inc.** | 
 | Weeks 13 and 14: 11/16--12/4 | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 "
 
