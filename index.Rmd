@@ -47,7 +47,8 @@ opts_knit$set(width=75)
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
 **Supplementary Material**: 
-- [readthefinance](readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+- [readthefinance](www.readthefinance.com) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+
 - [Corporate Finance Data Sets](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html)  These data sets contain very useful information for case analyses.
 
 ## Course Structure and Interaction
