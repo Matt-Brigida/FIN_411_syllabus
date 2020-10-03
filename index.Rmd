@@ -192,9 +192,9 @@ all spreadsheets should be submitted as .xlsx.*
 
 ## Tentative Outline
 
-Cases are due on the second date, i.e. 9/4, 9/18, etc
+Cases are due on the second date, i.e. 9/4, 9/18, etc.  The case due dates are <b style="color:red">bold and highlighted in red</b> in the table below.
 
-```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis', eval=FALSE}
 tabl2 <- "
 | Week | Case |
 | ---- | ---- |
@@ -211,6 +211,16 @@ tabl2 <- "
 
 cat(tabl2)
 ```
+
+| Week | Case |
+| ---- | ---- |
+| Weeks 1 and 2: 8/24--<b style="color:red">9/4</b> | Setting themes--Cases in module: **Ben & Jerry** |
+| Weeks 3 and 4: 9/7--<b style="color:red">9/18</b> | **FedEx vs. UPS** |
+| Weeks 5 and 6: 9/21--<b style="color:red">10/2</b> | Krispy Kreme  |
+| Weeks 7 and 8: 10/5--<b style="color:red">10/16</b> | Securitization | ## The Body Shop |
+| Weeks 9 and 10: 10/19--<b style="color:red">10/30</b> | Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** |
+| Weeks 11 and 12: 11/2--<b style="color:red">11/13</b> | Estimating the cost of capital--Case: **Nike, Inc.** | 
+| Weeks 13 and 14: 11/16--<b style="color:red">12/4</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 - [Some notes on the cases are here.](https://github.com/SUNY-Poly-Finance/FIN_411_text_case_notes)
 - [Krispy Kreme](https://suny_poly_finance.gitlab.io/fin_411_krispy_kreme_notes/)
