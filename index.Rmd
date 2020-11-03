@@ -220,10 +220,11 @@ cat(tabl2)
 | Weeks 5 and 6: 9/21--<b style="color:red">10/2</b> | Krispy Kreme  |
 | Weeks 7 and 8: 10/5--<b style="color:red">10/16</b> | Teletech | ## The Body Shop |
 | Weeks 9 and 10: 10/19--<b style="color:red">10/30</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| Weeks 11 and 12: 11/2--<b style="color:red">11/13</b> | Estimating the cost of capital--Case: **Nike, Inc.** | 
+| Weeks 11 and 12: 11/2--<b style="color:red">11/13</b> | Value-Line Publishing (HD vs LOW) | 
 | Weeks 13 and 14: 11/16--<b style="color:red">12/4</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
+<!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
 
 - [Some notes on the cases are here.](https://github.com/SUNY-Poly-Finance/FIN_411_text_case_notes)
 - [Krispy Kreme](https://suny_poly_finance.gitlab.io/fin_411_krispy_kreme_notes/)
