@@ -34,15 +34,15 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Online Fall 2020 | On Campus Office is Donovan 1277
+**Office**: Online Fall 2021 | On Campus Office is Donovan 1277
 
-**Office Hours**: Tuesday 4:00--6:00, I will be in a BB Collaborate session.  Feel free to log in and ask questions.
+**Office Hours**: Tuesday 12--2pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
 
-**Email**:  matthew.brigida@sunyit.edu
+**Email**:  matthew.brigida@sunypoly.edu
 
 **Class Location**:  Online (Synchronous)
 
-**Class Day/Time**: Synchronous Online Tuesday  6:00pm--9:30pm.  We will meet via Blackboard Collaborate. All lectures will also be recorded.
+**Class Day/Time**: Asynchronous Online Tuesday.  Recordings will be posted to Blackboard Collaborate.
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
@@ -55,7 +55,7 @@ opts_knit$set(width=75)
 
 The goal of the course is to provide good solutions to the text cases.  Completing the cases requires a good knowledge of concepts/terms/measures learned in earlier courses.  To help you remember this material, I may reference materials I provide via the following media:  
 
--  Via BlackBaord Collaborate.  You can view them live (I'll let you know when I am recording), or under the `Recordings` section of Collaborate.
+-  Via BlackBoard Collaborate.  You can view them live (I'll let you know when I am recording), or under the `Recordings` section of Collaborate.
 
 -  Short videos many of which are/will be posted on my YouTube channel: https://www.youtube.com/channel/UCwekb0vAK-FKaqPF5gfd0eQ/featured
 
@@ -215,13 +215,13 @@ cat(tabl2)
 
 | Week | Case |
 | ---- | ---- |
-| Weeks 1 and 2: 8/24--<b style="color:red">9/4</b> | Setting themes--Cases in module: **Ben & Jerry** |
-| Weeks 3 and 4: 9/7--<b style="color:red">9/18</b> | **FedEx vs. UPS** |
-| Weeks 5 and 6: 9/21--<b style="color:red">10/2</b> | Krispy Kreme  |
-| Weeks 7 and 8: 10/5--<b style="color:red">10/16</b> | Teletech | ## The Body Shop |
-| Weeks 9 and 10: 10/19--<b style="color:red">10/30</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| Weeks 11 and 12: 11/2--<b style="color:red">11/13</b> | Value-Line Publishing (HD vs LOW) | 
-| Weeks 13 and 14: 11/16--<b style="color:red">12/4</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| Weeks 1 and 2: 8/30--<b style="color:red">9/10</b> | Setting themes--Cases in module: **Ben & Jerry** |
+| Weeks 3 and 4: 9/13--<b style="color:red">9/24</b> | **FedEx vs. UPS** |
+| Weeks 5 and 6: 9/27--<b style="color:red">10/8</b> | Krispy Kreme  |
+| Weeks 7 and 8: 10/11--<b style="color:red">10/22</b> | Teletech | ## The Body Shop |
+| Weeks 9 and 10: 10/25--<b style="color:red">11/5</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| Weeks 11 and 12: 11/8--<b style="color:red">11/19</b> | Value-Line Publishing (HD vs LOW) | 
+| Weeks 13 and 14: 11/22--<b style="color:red">12/10</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
@@ -256,3 +256,11 @@ You are not required to read these.
 + [Notes from the AI Frontier: Insights from Hundreds of Use Cases](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20AI%20frontier%20Applications%20and%20value%20of%20deep%20learning/Notes-from-the-AI-frontier-Insights-from-hundreds-of-use-cases-Discussion-paper.ashx)
 + [Notes from the AI Frontier: Modeling the Impact on the World Economy](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx) 
 + [Notes from the AI Frontier:  Applying AI for Social Good](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Applying%20artificial%20intelligence%20for%20social%20good/MGI-Applying-AI-for-social-good-Discussion-paper-Dec-2018.ashx)
+
+# How to Ask Questions
+
+How to properly phrase a question is important in the workplace as well as in courses, such as ours, where much of the interaction is online.  Remember when formulating your question, *you get what you give*.  If you simply say, "I don't understand", then I have very little information to work with and so I can't help.  I'll just say to rewatch the relevant video.
+
+Alternatively, if you say, "I calculated a stock's expected return using the CAPM and it is negative.  Can this be correct?".  Here you have (1) let me know what you have done, (2) your result, and (3) what you don't understand. In this case I can ask (1) which stock, and (2) is your beta negative, and proceed to explain whether your calculation is correct.
+
+
