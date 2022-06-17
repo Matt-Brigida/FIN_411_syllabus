@@ -1,11 +1,11 @@
 ---
 title:
 date:
-##output: 
-##  rmdformats::html_clean:
-##    highlight: kate
-output: pdf_document
-always_allow_html: true
+output: 
+  rmdformats::html_clean:
+    highlight: kate
+## output: pdf_document
+## always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
@@ -232,13 +232,13 @@ cat(tabl2)
 <!--- Summer semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| June 17  | Setting themes--Cases in module: **Ben & Jerry** |
-| June 17  | **FedEx vs. UPS** |
-| June 17  | Krispy Kreme  |
-| July 22 | Teletech | ## The Body Shop |
-| July 22 | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| July 22 | Value-Line Publishing (HD vs LOW) | 
-| July 22 | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| <b style="color:red">June 17</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">June 17</b>  | **FedEx vs. UPS** |
+| <b style="color:red">June 17</b>  | Krispy Kreme  |
+| <b style="color:red">July 22</b> | Teletech | ## The Body Shop |
+| <b style="color:red">July 22</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">July 22</b> | Value-Line Publishing (HD vs LOW) | 
+| <b style="color:red">July 22</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
