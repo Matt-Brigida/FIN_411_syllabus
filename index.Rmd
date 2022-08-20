@@ -1,11 +1,11 @@
 ---
 title:
 date:
-output: 
-  rmdformats::html_clean:
-    highlight: kate
-## output: pdf_document
-## always_allow_html: true
+## output: 
+##   rmdformats::html_clean:
+##     highlight: kate
+output: word_document
+always_allow_html: true
 ---
 
 ```{r knitr_init, echo=FALSE, cache=FALSE}
@@ -36,15 +36,17 @@ opts_knit$set(width=75)
 <br>
 **Instructor**: Matthew Brigida, Ph.D.
 
-**Office**: Online Summer 2022 | On Campus Office is Donovan 1277
+**Office**: On Campus Office is Donovan 1277
+<!-- Online Summer 2022 | -->
 
-**Office Hours**: Tuesday 12--2pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
+**Office Hours**: Tuesday 4--6pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
 
 **Email**:  matthew.brigida@sunypoly.edu
 
-**Class Location**:  Online (Synchronous)
+**Class Location**:  Donovan 1242
 
-**Class Day/Time**: Asynchronous Online. Recordings will be posted to Blackboard Collaborate.
+**Class Day/Time**: Tuesday 6--9:30pm
+<!-- Asynchronous Online. Recordings will be posted to Blackboard Collaborate. -->
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
@@ -198,6 +200,7 @@ all spreadsheets should be submitted as .xlsx.*
 
 Cases are due on the second date, i.e. 9/4, 9/18, etc.  The case due dates are <b style="color:red">bold and highlighted in red</b> in the table below.
 
+<!-- Below no longer used -->
 ```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis', eval=FALSE}
 tabl2 <- "
 | Week | Case |
@@ -232,13 +235,13 @@ cat(tabl2)
 <!--- Summer semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| <b style="color:red">June 17</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">June 17</b>  | **FedEx vs. UPS** |
-| <b style="color:red">June 17</b>  | Krispy Kreme  |
-| <b style="color:red">July 22</b> | Teletech | ## The Body Shop |
-| <b style="color:red">July 22</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">July 22</b> | Value-Line Publishing (HD vs LOW) | 
-| <b style="color:red">July 22</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| <b style="color:red">September 9</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">September 23</b>  | **FedEx vs. UPS** |
+| <b style="color:red">October 7</b>  | Krispy Kreme  |
+| <b style="color:red">October 21</b> | Teletech | ## The Body Shop |
+| <b style="color:red">November 4</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">November 18</b> | Value-Line Publishing (HD vs LOW) | 
+| <b style="color:red">December 9</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
