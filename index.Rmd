@@ -39,13 +39,13 @@ opts_knit$set(width=75)
 **Office**: On Campus Office is Donovan 1277
 <!-- Online Summer 2022 | -->
 
-**Office Hours**: Tuesday 4--6pm, and on-request I will create a BB Collaborate session where you can log in and ask questions.
+**Office Hours**: Online by Request <!-- Tuesday 4--6pm, and on-request I will create a BB Collaborate session where you can log in and ask questions. -->
 
 **Email**:  matthew.brigida@sunypoly.edu
 
-**Class Location**:  Donovan 1242
+**Class Location**:  Online <!-- Donovan 1242 -->
 
-**Class Day/Time**: Tuesday 6--9:30pm
+**Class Day/Time**: Asynchronous <!-- Tuesday 6--9:30pm -->
 <!-- Asynchronous Online. Recordings will be posted to Blackboard Collaborate. -->
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
@@ -232,16 +232,28 @@ cat(tabl2)
 | Weeks 13 and 14: 11/22--<b style="color:red">12/10</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 -->
 
-<!--- Summer semester schedule---->
+<!--- Fall semester schedule---->
+<!-- | Due | Case | -->
+<!-- | ---- | ---- | -->
+<!-- | <b style="color:red">September 9</b>  | Setting themes--Cases in module: **Ben & Jerry** | -->
+<!-- | <b style="color:red">September 23</b>  | **FedEx vs. UPS** | -->
+<!-- | <b style="color:red">October 7</b>  | Krispy Kreme  | -->
+<!-- | <b style="color:red">October 21</b> | Teletech | ## The Body Shop | -->
+<!-- | <b style="color:red">November 11</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) | -->
+<!-- | <b style="color:red">December 2</b> | Value-Line Publishing (HD vs LOW) |  -->
+<!-- | <b style="color:red">December 16</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** | -->
+
+
+<!--- Fall semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| <b style="color:red">September 9</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">September 23</b>  | **FedEx vs. UPS** |
-| <b style="color:red">October 7</b>  | Krispy Kreme  |
-| <b style="color:red">October 21</b> | Teletech | ## The Body Shop |
-| <b style="color:red">November 11</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">December 2</b> | Value-Line Publishing (HD vs LOW) | 
-| <b style="color:red">December 16</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| <b style="color:red">June 9</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">June 16</b>  | **FedEx vs. UPS** |
+| <b style="color:red">June 23</b>  | Krispy Kreme  |
+| <b style="color:red">June 30</b> | Teletech | ## The Body Shop |
+| <b style="color:red">July 7</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">July 14</b> | Value-Line Publishing (HD vs LOW) | 
+| <b style="color:red">July 21</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**|
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
@@ -293,9 +305,7 @@ Alternatively, if you say, "I calculated a stock's expected return using the CAP
 > 
 > For information related to these services or to schedule an appointment, please contact the Office of Disability Services using the information provided below. 
 > 
-> Leslie K. Reid, Director (she/her/hers)
 > Office of Disability Services 
-> reidl@sunypoly.edu 
 > (315) 792-7170 
 > Utica Campus 
 > Peter J. Cayan Library, L145 
