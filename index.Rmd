@@ -1,10 +1,10 @@
 ---
 title:
 date:
-## output: 
-##   rmdformats::html_clean:
-##     highlight: kate
-output: word_document
+output: 
+  rmdformats::html_clean:
+    highlight: kate
+#output: word_document
 always_allow_html: true
 ---
 
@@ -51,7 +51,8 @@ opts_knit$set(width=75)
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
 **Supplementary Material**: 
-- [Financial-Education Site](https://financial-education.github.io) | [5MinuteFinance.org](https://www.5minutefinance.org/)
+
+- [Financial-Education Site](https://financial-education.github.io)
 
 - [Corporate Finance Data Sets](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html)  These data sets contain very useful information for case analyses.
 
@@ -59,7 +60,7 @@ opts_knit$set(width=75)
 
 The goal of the course is to provide good solutions to the text cases.  Completing the cases requires a good knowledge of concepts/terms/measures learned in earlier courses.  To help you remember this material, I may reference materials I provide via the following media:  
 
--  Via BlackBoard Collaborate.  You can view them live (I'll let you know when I am recording), or under the `Recordings` section of Collaborate.
+-  Recorded videos and live videos on Panopto in Brightspace.
 
 -  Short videos many of which are/will be posted on my YouTube channel: https://www.youtube.com/channel/UCwekb0vAK-FKaqPF5gfd0eQ/featured
 
@@ -198,7 +199,7 @@ all spreadsheets should be submitted as .xlsx.*
 
 ## Tentative Outline
 
-Cases are due on the second date, i.e. 9/4, 9/18, etc.  The case due dates are <b style="color:red">bold and highlighted in red</b> in the table below.
+The case due dates are <b style="color:red">bold and highlighted in red</b> in the table below.
 
 <!-- Below no longer used -->
 ```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis', eval=FALSE}
@@ -244,16 +245,16 @@ cat(tabl2)
 <!-- | <b style="color:red">December 16</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** | -->
 
 
-<!--- Fall semester schedule---->
+<!--- Summer 2024 semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| <b style="color:red">June 9</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">June 16</b>  | **FedEx vs. UPS** |
-| <b style="color:red">June 23</b>  | Krispy Kreme  |
-| <b style="color:red">June 30</b> | Teletech | ## The Body Shop |
-| <b style="color:red">July 7</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">July 14</b> | Value-Line Publishing (HD vs LOW) | 
-| <b style="color:red">July 21</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**|
+| <b style="color:red">June 7</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">June 14</b>  | **FedEx vs. UPS** |
+| <b style="color:red">June 21</b>  | Krispy Kreme  |
+| <b style="color:red">June 28</b> | Teletech | ## The Body Shop |
+| <b style="color:red">July 5</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">July 12</b> | Value-Line Publishing (HD vs LOW) | 
+| <b style="color:red">July 19</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**|
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
