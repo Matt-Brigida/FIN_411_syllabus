@@ -60,9 +60,13 @@ opts_knit$set(width=75)
 
 The goal of the course is to provide good solutions to the text cases.  Completing the cases requires a good knowledge of concepts/terms/measures learned in earlier courses.  To help you remember this material, I may reference materials I provide via the following media:  
 
--  Recorded videos and live videos on Panopto in Brightspace.
+-  Recorded videos and in Brightspace.
 
 -  Short videos many of which are/will be posted on my YouTube channel: https://www.youtube.com/channel/UCwekb0vAK-FKaqPF5gfd0eQ/featured
+
+You should use the discussion boards in Brightspace for any questions on material or the videos.  
+
+I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality. 
 
 ## Description
 
