@@ -252,13 +252,14 @@ cat(tabl2)
 <!--- Summer 2024 semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| <b style="color:red">June 7</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">June 14</b>  | **FedEx vs. UPS** |
-| <b style="color:red">June 21</b>  | Krispy Kreme  |
-| <b style="color:red">June 28</b> | Teletech | ## The Body Shop |
-| <b style="color:red">July 5</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">July 12</b> | Value-Line Publishing (HD vs LOW) | 
-| <b style="color:red">July 19</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**|
+| <b style="color:red">June 8</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">June 15</b>  | **FedEx vs. UPS** |
+| <b style="color:red">June 22</b>  | Krispy Kreme  |
+| <b style="color:red">June 29</b> | Teletech | ## The Body Shop |
+| <b style="color:red">July 6</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">July 13</b> | Value-Line Publishing (HD vs LOW) | 
+
+<!--- | <b style="color:red">July 19</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**| -->
 
 <!-- Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** | -->
 <!--- Estimating the cost of capital--Case: **Nike, Inc.** -->
