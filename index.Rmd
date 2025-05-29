@@ -68,6 +68,8 @@ You should use the discussion boards in Brightspace for any questions on materia
 
 I will post office hours on request. Usually I will try and find a time that works for the most number of students.  However, since this an asynchronous course with no set meeting time, my times for office hours may not match your schedule.  In this case we will not meet.  Note, also I do not schedule one-on-one meetings---there is not enough time in the week.  The bottom line is that you signed up for an asynchronous course, the **definition of which is we do not meet**.  If you think you *must* meet to complete this course, you should take it in a synchronous modality. 
 
+Also, prior to meeting in office hours be sure to review all course materials on the topic, and then first ask questions on the discussion boards.  If we can't answer the question on the discussion board then it makes sense to meet in office hours. However, if you show up to office hours and say something like, "I don't get it" I'll simply refer you to the course materials.  If you have actually made an effort to understand the material, then you should be able to ask me a clear and pointed question. 
+
 ## Description
 
 This is a cases course for upper-level finance students. The learning outcomes for this course are summarized below:
@@ -147,10 +149,6 @@ Also, often students will ask for the correct answer or way of doing something. 
 <!-- ## Participation -->
 
 <!-- Your participation grade is a function of both your attendance, and your participation in the discussion while you are attending.  If you miss a few classes (particularly for a good reason) your grade won't be adversely affected, however if you *consistently* do not attend I will lower your participation score.  Similarly, if you *consistently* do not participate in the class discussion I will lower your score. -->
-
-## Course Communication
-
-All communication will be through Blackboard and email. If you have question you are strongly encouraged to post it to a discussion forum instead of emailing me.  This way, other students can get the benefit of the question and answer.  It also saves me from answering the same question many times via email, and frees me up to answer more questions and generally provide more effective instruction for you.
 
 ## Grading
 
