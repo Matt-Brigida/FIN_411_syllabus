@@ -39,7 +39,7 @@ opts_knit$set(width=75)
 **Office**: On Campus Office is Donovan 1277
 <!-- Online Summer 2022 | -->
 
-**Office Hours**: Online by Request <!-- Tuesday 4--6pm, and on-request I will create a BB Collaborate session where you can log in and ask questions. -->
+**Office Hours**: Online by Request:  See the *Office Hours* section below. <!-- Tuesday 4--6pm, and on-request I will create a BB Collaborate session where you can log in and ask questions. -->
 
 **Email**:  matthew.brigida@sunypoly.edu
 
@@ -96,7 +96,11 @@ Rights, Regulations, and Procedures Handbook.
 
 ## Office Hours
 
-I will also be logged on the course throughout the week to answer questions and review the discussions.  I will try to be available on request, however I will not help if you wait until the last minute to complete your work.  If you post questions on a case on the day it is due I will likely not answer.
+The first method of answering questions is via the discussion boards. Any questions that cannot adequately be answered on the discussion boards can be solved with office hours.  Throughout the work week I will be logged on the course to answer questions and review the discussions.  I generally do not answer questions over the weekend. Note, I will not help if you wait until the last minute to complete your work.  If you post questions on a case on the day it is due I will likely not answer. 
+
+When corresponding about your question on the discussion boards, we may set virtual office hours to more adequately answer your question. However there is no guarantee given your schedule that we will be able to find a compatible time.  So please consider:
+
+**This is an asynchronous course, which means we do not meet at the same time.  If you need to meet to complete this course you should take it in an in-person or synchronous modality.**
 
 ## Cases
 
