@@ -207,25 +207,6 @@ all spreadsheets should be submitted as .xlsx.*
 
 The case due dates are <b style="color:red">bold and highlighted in red</b> in the table below.
 
-<!-- Below no longer used -->
-```{r outline, echo=FALSE, message=FALSE, warnings=FALSE, results='asis', eval=FALSE}
-tabl2 <- "
-| Week | Case |
-| ---- | ---- |
-| Weeks 1 and 2: 8/24--9/4 | Setting themes--Cases in module: **Ben & Jerry** |
-| Weeks 3 and 4: 9/7--9/18 | **FedEx vs. UPS** |
-| Weeks 5 and 6: 9/21--10/2 | Krispy Kreme  |
-| Weeks 7 and 8: 10/5--10/16 | Teletech |
-| Weeks 9 and 10: 10/19--10/30 | Securitization | ## The Body Shop |
-| Weeks 11 and 12: 11/2--11/13 | Estimating the cost of capital--Case: **Nike, Inc.** | 
-| Weeks 13 and 14: 11/16--12/4 | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
-"
-
-##| Weeks 9 and 10: 10/19--10/30 | Financial Analysis and Forecasting--Case: **Value-Line Publishing (HD vs LOW)** |
-## removed from table: | Weeks 15: 12/4--12/6 | Carrefour |
-
-cat(tabl2)
-```
 
 <!--- Regular semester schedule----
 | Week | Case |
@@ -240,26 +221,26 @@ cat(tabl2)
 -->
 
 <!--- Fall semester schedule---->
-<!-- | Due | Case | -->
-<!-- | ---- | ---- | -->
-<!-- | <b style="color:red">September 9</b>  | Setting themes--Cases in module: **Ben & Jerry** | -->
-<!-- | <b style="color:red">September 23</b>  | **FedEx vs. UPS** | -->
-<!-- | <b style="color:red">October 7</b>  | Krispy Kreme  | -->
-<!-- | <b style="color:red">October 21</b> | Teletech | ## The Body Shop | -->
-<!-- | <b style="color:red">November 11</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) | -->
-<!-- | <b style="color:red">December 2</b> | Value-Line Publishing (HD vs LOW) |  -->
-<!-- | <b style="color:red">December 16</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** | -->
+| Due | Case |
+| ---- | ---- |
+| <b style="color:red">September 12</b>  | Setting themes--Cases in module: **Ben & Jerry** |
+| <b style="color:red">September 26</b>  | **FedEx vs. UPS** |
+| <b style="color:red">October 10</b>  | Krispy Kreme  |
+| <b style="color:red">October 24</b> | Teletech | ## The Body Shop |
+| <b style="color:red">November 7</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
+| <b style="color:red">November 21</b> | Value-Line Publishing (HD vs LOW) |
+| <b style="color:red">December 10</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
 
 
 <!--- Summer 2024 semester schedule---->
-| Due | Case |
-| ---- | ---- |
-| <b style="color:red">June 8</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">June 15</b>  | **FedEx vs. UPS** |
-| <b style="color:red">June 22</b>  | Krispy Kreme  |
-| <b style="color:red">June 29</b> | Teletech | ## The Body Shop |
-| <b style="color:red">July 6</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">July 13</b> | Value-Line Publishing (HD vs LOW) | 
+<!-- | Due | Case | -->
+<!-- | ---- | ---- | -->
+<!-- | <b style="color:red">June 8</b>  | Setting themes--Cases in module: **Ben & Jerry** | -->
+<!-- | <b style="color:red">June 15</b>  | **FedEx vs. UPS** | -->
+<!-- | <b style="color:red">June 22</b>  | Krispy Kreme  | -->
+<!-- | <b style="color:red">June 29</b> | Teletech | ## The Body Shop | -->
+<!-- | <b style="color:red">July 6</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) | -->
+<!-- | <b style="color:red">July 13</b> | Value-Line Publishing (HD vs LOW) |  -->
 
 <!--- | <b style="color:red">July 19</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** or **TBD**| -->
 
