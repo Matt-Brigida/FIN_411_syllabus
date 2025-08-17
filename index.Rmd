@@ -50,6 +50,8 @@ opts_knit$set(width=75)
 
 **Text**: [Case Studies in Finance 6th Edition, by Robert Bruner, Kenneth Eades, Michael Schill. ISBN-13: 978-0073382456 ISBN-10: 0073382450](https://www.amazon.com/dp/0073382450/ref=cm_sw_r_em_apa_i_Tm1fBbR1CT3EV)
 
+You can also use the 8th edition if you have it under two conditions.  First, you have to post to the discussion board and ask what cases in the 8th you can substitute.  Second, you understand there are presently no videos covering the 8th edition cases.
+
 **Supplementary Material**: 
 
 - [Financial-Education Site](https://financial-education.github.io)
