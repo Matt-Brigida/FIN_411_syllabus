@@ -259,6 +259,10 @@ We may substitute one of the above cases for the following:
 -  [Deposit Insurance](https://financial-education.github.io/deposit_insurance_valuation_by_option/)
 -  Machine Learning/Artificial Intelligence in Finance
 
+## Policy on Artifical Intellegence and LLM Use
+
+You may use LLMs to come up with ideas and check solutions. You may not use LLMs to write your case report or construct your spreadsheet.  Your case submission must be your own words.  If it is clear that LLMs have written part of your case, or completed a portion of your spreadsheet, you will receive a 0.
+
 ## Some Notes on Spreadsheet Design
 
 You should construct your spreadsheet as if you were an analyst at a company, and you were going to submit the spreadsheet to upper management.  Therefore, getting the correct answer can be considered the minimal amount of work.  The spreadsheet should be easily readable and organized.  There are a couple of reasons why this is important: (1) management often will check some numbers (or maybe change a few inputs if they have more up to date information) and it will reflect very poorly on you if they have to search around through a muddled and ill-conceived spreadsheet; and (2) anyone should be able to pick up your spreadsheet and complete it if you are not there (vacation, sick, or hopefully promoted).  Following are a couple tips on spreadsheet design, though it is far from exhaustive.
