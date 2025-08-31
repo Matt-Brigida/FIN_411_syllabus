@@ -225,13 +225,13 @@ The case due dates are <b style="color:red">bold and highlighted in red</b> in t
 <!--- Fall semester schedule---->
 | Due | Case |
 | ---- | ---- |
-| <b style="color:red">September 12</b>  | Setting themes--Cases in module: **Ben & Jerry** |
-| <b style="color:red">September 26</b>  | **FedEx vs. UPS** |
-| <b style="color:red">October 10</b>  | Krispy Kreme  |
-| <b style="color:red">October 24</b> | Teletech | ## The Body Shop |
+| <b style="color:red">September 12</b>  | Setting themes--Cases in module: Ben & Jerry |
+| <b style="color:red">September 26</b>  | FedEx Corp vs. United Parcel Service |
+| <b style="color:red">October 10</b>  | Krispy Kreme  (8th ed: Financial Detective 2016) |
+| <b style="color:red">October 24</b> | Teletech (8th ed: H.J. Heinz) | ## The Body Shop |
 | <b style="color:red">November 7</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
-| <b style="color:red">November 21</b> | Value-Line Publishing (HD vs LOW) |
-| <b style="color:red">December 10</b> | Capital Budgeting and Resource Allocation--Case: **Aurora Textile Corp.** |
+| <b style="color:red">November 21</b> | Value-Line Publishing (HD vs LOW) (8th ed: Whole Foods)|
+| <b style="color:red">December 10</b> | Capital Budgeting and Resource Allocation--Case: Aurora Textile Corp. |
 
 
 <!--- Summer 2024 semester schedule---->
