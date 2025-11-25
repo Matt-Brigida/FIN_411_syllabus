@@ -231,8 +231,8 @@ The case due dates are <b style="color:red">bold and highlighted in red</b> in t
 | <b style="color:red">October 24</b> | Teletech (8th ed: H.J. Heinz) | ## The Body Shop |
 | <b style="color:red">November 7</b> | [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/) |
 | <b style="color:red">November 21</b> | Value-Line Publishing (HD vs LOW) (8th ed: Whole Foods)|
-<!-- | <b style="color:red">December 10</b> | Capital Budgeting and Resource Allocation--Case: Aurora Textile Corp. | -->
 | <b style="color:red">December 5</b> | [Auto Lease Option Valuation](https://matt-brigida.github.io/auto_lease_case/) |
+<!-- | <b style="color:red">December 10</b> | Capital Budgeting and Resource Allocation--Case: Aurora Textile Corp. | -->
 
 
 <!--- Summer 2024 semester schedule---->
